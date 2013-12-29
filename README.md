@@ -8,7 +8,7 @@ A simple script you can use to power on/off your receiver when your computer sta
 Basic usage instructions
 ------------------------
 
-Open `yamaha-powersync.py` and replace the IP in `HOSTNAME` with your receivers' IP address. Make sure you've previously assigned a static IP for the receiver.
+Open `yamaha-powersync.py` and replace the IP in `HOSTNAME` with your receiver's IP address. Make sure you've previously assigned a static IP for the receiver.
 
 To power on your receiver:
 
