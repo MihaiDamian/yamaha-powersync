@@ -7,7 +7,7 @@ A simple script you can use to power on/off your receiver when your computer sta
 
 Requirements
 ------------
-* A network enabled Yamaha® AV receivers (tested on Yamaha RX-V475)
+* A network enabled Yamaha® AV receiver (tested on Yamaha RX-V475)
 * [Python](http://www.python.org/) 2.7 or later
 * The [Requests](http://docs.python-requests.org) library
 
