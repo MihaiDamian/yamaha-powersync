@@ -2,7 +2,14 @@ yamaha-powersync
 ================
 
 
-A simple script you can use to power on/off your receiver when your computer start/shuts down. Works with most network-enabled Yamaha® AV receivers. Tested on Yamaha RX-V475.
+A simple script you can use to power on/off your receiver when your computer start/shuts down.
+
+
+Requirements
+------------
+* A network enabled Yamaha® AV receivers (tested on Yamaha RX-V475)
+* [Python](http://www.python.org/) 2.7 or later
+* The [Requests](http://docs.python-requests.org) library
 
 
 Basic usage instructions
